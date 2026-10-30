@@ -1,4 +1,5 @@
 
+
 import re
 
 
@@ -221,5 +222,3 @@ def analyze_content(content, guidelines):
         "suggestions": suggestions,
         "passed": passed
     }
-
-
